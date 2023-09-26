@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ritiksingh29
-- 👀 I’m interested in Web Development, ML-DL Research  and Software Development.
+- 👋 Hi, I’m Ritik Singh
+- 👀 I’m interested in Web Development, ML-DL Research,  and Software Development.
 - 🌱 I’m currently learning Backend Development and DSA.
 - 💞️ I’m looking to collaborate on all above mention fields.
 - 📫 You can contact me through -
